@@ -1,5 +1,7 @@
 # J-s-World
 
+Source_URL : http://naver.me/FNmyEyEf
+
 아이템 시스템 디자인.
 
 - 장비, 재료 아이템 설정
